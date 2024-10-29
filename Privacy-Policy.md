@@ -18,7 +18,7 @@ This Services does not uses these “cookies” explicitly. However, the app may
 Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
 
 ### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts.
+We collect information from your device in some cases. The information may be utilized for the provision of better service and to prevent fraudulent acts.
 
 ### Service Providers  
 We may employ third-party companies and individuals due to the following reasons:  
@@ -36,7 +36,7 @@ We value your trust in providing us your Personal Information, thus we are striv
 This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13.  
 
 ### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. Changes to the Privacy Policy will be made on this page. These changes are effective immediately, after they are posted on this page.  
 
 ### Contact Us  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
