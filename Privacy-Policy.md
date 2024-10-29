@@ -2,7 +2,7 @@ Privacy Policy
 ----------------
 
 ### Introduction  
-Our privacy policy will help you understand what information we collect at AlgoPocket, how AlgoPocket uses it, and what choices you have.
+Our privacy policy will help you understand what information we collect at Python21, how Python21 uses it, and what choices you have.
 If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service.
 
 ### Information Collection and Use  
