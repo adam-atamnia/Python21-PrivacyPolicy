@@ -12,10 +12,10 @@ The app does use third party services that may collect information used to ident
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services.  
+The app may use third party code and libraries that use “cookies” to collection information and to improve their services.  
 
 ### Location Information  
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
+Some of the services may use location information transmitted from users' mobile phones.
 
 ### Device Information  
 We collect information from your device in some cases. The information may be utilized for the provision of better service and to prevent fraudulent acts.
