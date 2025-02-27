@@ -1,0 +1,1 @@
+Disclaimer: Purchases are linked to your store account (ex. Google Play, Apple App Store), not your login account. Example, using the same login on another device does not mean you will have access to your purchases.
