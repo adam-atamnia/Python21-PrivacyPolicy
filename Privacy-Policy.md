@@ -18,14 +18,11 @@ We may use third parties to help operate the app or analyze its use. They may ac
 **Account Deletion**
 When you delete your account, your purchase history and activities may be retained anonymously.
 
-**Security**
-We protect your information with commercially acceptable measures, but no method is 100% secure.
-
 **Children**
 This app is not directed at children under 13 years of age and we do not intentionally collect information from them.
 
 **Changes to the Policy**
-We may update this policy and changes will be effective upon publication in the app.
+We may update this policy and changes will be effective upon publication.
 
 **Contact Us**
 For questions or suggestions: Email: feedback.adam.atamnia@gmail.com
